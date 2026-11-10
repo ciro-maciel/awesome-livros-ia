@@ -1,0 +1,248 @@
+{
+    "slug": "awesome-livros-ia",
+    "campaign": "awesome-livros-ia",
+    "linkPrefix": "livia",
+    "title": "Awesome livros de IA",
+    "description": "Livros sobre inteligência artificial em português: do primeiro uso à profissão, de quem constrói ao debate.",
+    "intro": "Para quem prefere aprender IA num livro, em português. Começa pelo básico, segue por profissão e por quem constrói com agentes, e termina nas edições brasileiras dos livros que pautam o debate. Cada página foi aberta antes de entrar.",
+    "glossary": "O Novo Básico, Forward Deployed Engineer, One Person Business, MCP and llms.txt are proper names. Keep every book title as published, in Portuguese.",
+    "topics": [
+        "livros",
+        "books",
+        "inteligencia-artificial",
+        "ai",
+        "ia",
+        "ebooks"
+    ],
+    "categories": [
+        {
+            "id": "comeco",
+            "title": "Para começar",
+            "description": "O que todo mundo precisa saber antes de usar IA no trabalho.",
+            "items": [
+                {
+                    "name": "IA no dia a dia (vol. 1)",
+                    "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+                    "description": "O que todo mundo precisa saber de inteligência artificial para trabalhar.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA por dentro (vol. 2)",
+                    "url": "https://ciromaciel.click/books/ia-por-dentro",
+                    "description": "Como funcionam as máquinas que conversam.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "profissao",
+            "title": "Por profissão",
+            "description": "Um volume por ofício, com as tarefas do dia e as normas da profissão. Cada um tem um kit online aberto.",
+            "items": [
+                {
+                    "name": "IA no escritório (vol. 3)",
+                    "url": "https://ciromaciel.click/books/ia-no-escritorio",
+                    "description": "Para secretárias, assistentes e auxiliares administrativos.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA no primeiro trabalho (vol. 4)",
+                    "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+                    "description": "Da vaga ao primeiro holerite, para quem está começando.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA no pequeno negócio (vol. 5)",
+                    "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+                    "description": "Do WhatsApp ao caixa, para o MEI e o pequeno empresário.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA no atendimento e nas vendas (vol. 6)",
+                    "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+                    "description": "Para vendedores, caixas, recepcionistas e operadores de telemarketing.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA na sala de aula (vol. 7)",
+                    "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+                    "description": "Para professores: plano de aula, correção, atividade adaptada e parecer sem expor o aluno.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA na contabilidade (vol. 8)",
+                    "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+                    "description": "Para contadores, técnicos e auxiliares: do extrato à DCTFWeb, sem expor o cliente.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA na advocacia (vol. 9)",
+                    "url": "https://ciromaciel.click/books/ia-na-advocacia",
+                    "description": "Para advogados: petição, jurisprudência e prazo sem julgado falso nem expor o cliente.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "construir",
+            "title": "Para quem constrói",
+            "description": "Sistemas, produtos e empresas feitos com agentes de IA.",
+            "items": [
+                {
+                    "name": "Construir com IA (vol. 10)",
+                    "url": "https://ciromaciel.click/books/construir-com-ia",
+                    "description": "Do protótipo ao sistema no ar: login, dados e cobrança para quem cria sem saber programar.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Feito para agentes (vol. 11)",
+                    "url": "https://ciromaciel.click/books/feito-para-agentes",
+                    "description": "Como fazer o agente de IA do seu cliente usar o seu produto: servidor MCP, llms.txt e autorização.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "A empresa de uma pessoa (vol. 12)",
+                    "url": "https://ciromaciel.click/books/one-person-business",
+                    "description": "One Person Business: como montar e operar um negócio inteiro com agentes de IA.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Do primeiro visitante ao cliente (vol. 13)",
+                    "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+                    "description": "Como montar, com agentes de IA, a vitrine, a captação e o relacionamento do seu negócio.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Forward Deployed Engineer (vol. 14)",
+                    "url": "https://ciromaciel.click/books/forward-deployed-engineer",
+                    "description": "Como se tornar o engenheiro que leva a IA do piloto à produção.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "debate",
+            "title": "Para entender o debate",
+            "description": "Edições brasileiras de livros de outros autores sobre o que a IA muda. Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "Cointeligência",
+                    "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+                    "description": "Ethan Mollick, professor da Wharton, sobre viver e trabalhar com a IA como colega. Intrínseca.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Nexus",
+                    "url": "https://www.companhiadasletras.com.br/livro/9788535937817/nexus",
+                    "description": "Yuval Noah Harari conta a história das redes de informação, da Idade da Pedra à IA. Companhia das Letras.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "A próxima onda",
+                    "url": "https://www.record.com.br/products/a-proxima-onda",
+                    "description": "Mustafa Suleyman e Michael Bhaskar sobre IA, poder e o maior dilema do século. Record.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Superinteligência",
+                    "url": "https://www.martinsfontespaulista.com.br/superinteligencia-840847/p",
+                    "description": "Nick Bostrom sobre os caminhos, os perigos e as estratégias diante de uma IA mais capaz que nós. DarkSide.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Vida 3.0",
+                    "url": "https://www.martinsfontespaulista.com.br/vida-3-0-925167/p",
+                    "description": "Max Tegmark sobre o ser humano na era da inteligência artificial. Benvirá.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "outras-listas",
+            "title": "Outras listas",
+            "description": "Para ir além dos livros.",
+            "items": [
+                {
+                    "name": "Awesome IA no trabalho",
+                    "url": "https://github.com/ciro-maciel/awesome-ia-no-trabalho",
+                    "description": "Assistentes, privacidade e fontes oficiais, com uma lista por profissão.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        }
+    ]
+}
