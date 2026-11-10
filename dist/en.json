@@ -1,0 +1,259 @@
+{
+  "slug": "awesome-livros-ia",
+  "language": "en",
+  "title": "Awesome livros de IA",
+  "description": "Books on artificial intelligence in Portuguese: from first use to the profession, from builders to the debate.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "comeco",
+      "title": "To get started",
+      "items": [
+        {
+          "name": "IA no dia a dia (vol. 1)",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/livia-ia-no-dia-a-dia-vol-1",
+          "description": "What everyone needs to know about artificial intelligence to work.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro (vol. 2)",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/livia-ia-por-dentro-vol-2",
+          "description": "How the machines that talk to us work.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "profissao",
+      "title": "By profession",
+      "items": [
+        {
+          "name": "IA no escritório (vol. 3)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/livia-ia-no-escritorio-vol-3",
+          "description": "For secretaries, assistants and administrative aides.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho (vol. 4)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/livia-ia-no-primeiro-trabalho-vol-4",
+          "description": "From job offer to first payslip, for those just starting out.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio (vol. 5)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/livia-ia-no-pequeno-negocio-vol-5",
+          "description": "From WhatsApp to the cash register, for the MEI and small business owners.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas (vol. 6)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/livia-ia-no-atendimento-e-nas-vendas-vol",
+          "description": "For salespeople, cashiers, receptionists and telemarketing operators.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula (vol. 7)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/livia-ia-na-sala-de-aula-vol-7",
+          "description": "For teachers: lesson plans, grading, adapted activities and reports without exposing the student.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade (vol. 8)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/livia-ia-na-contabilidade-vol-8",
+          "description": "For accountants, technicians and assistants: from bank statements to DCTFWeb, without exposing the client.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia (vol. 9)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/livia-ia-na-advocacia-vol-9",
+          "description": "For lawyers: petitions, case law and deadlines, without fake rulings or exposing the client.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "construir",
+      "title": "For builders",
+      "items": [
+        {
+          "name": "Construir com IA (vol. 10)",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/livia-construir-com-ia-vol-10",
+          "description": "From prototype to live system: login, data and billing for people who build without knowing how to code.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/livia-feito-para-agentes-vol-11",
+          "description": "How to make your customer's AI agent use your product: MCP server, llms.txt and authorization.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/livia-a-empresa-de-uma-pessoa-vol-12",
+          "description": "One Person Business: how to set up and run a whole business with AI agents.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/livia-do-primeiro-visitante-ao-cliente-v",
+          "description": "How to set up, with AI agents, your storefront, lead generation and customer relationships.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Forward Deployed Engineer (vol. 14)",
+          "url": "https://ciromaciel.click/books/forward-deployed-engineer",
+          "link": "https://go.mymarketing.click/livia-forward-deployed-engineer-vol-14",
+          "description": "How to become the engineer who takes AI from pilot to production.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "debate",
+      "title": "To understand the debate",
+      "items": [
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/livia-cointeligencia",
+          "description": "Ethan Mollick, professor at Wharton, on living and working with AI as a colleague. Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nexus",
+          "url": "https://www.companhiadasletras.com.br/livro/9788535937817/nexus",
+          "link": "https://go.mymarketing.click/livia-nexus",
+          "description": "Yuval Noah Harari tells the story of information networks, from the Stone Age to AI. Companhia das Letras.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A próxima onda",
+          "url": "https://www.record.com.br/products/a-proxima-onda",
+          "link": "https://go.mymarketing.click/livia-a-proxima-onda",
+          "description": "Mustafa Suleyman and Michael Bhaskar on AI, power and the biggest dilemma of the century. Record.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Superinteligência",
+          "url": "https://www.martinsfontespaulista.com.br/superinteligencia-840847/p",
+          "link": "https://go.mymarketing.click/livia-superinteligencia",
+          "description": "Nick Bostrom on the paths, dangers and strategies facing an AI more capable than we are. DarkSide.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vida 3.0",
+          "url": "https://www.martinsfontespaulista.com.br/vida-3-0-925167/p",
+          "link": "https://go.mymarketing.click/livia-vida-3-0",
+          "description": "Max Tegmark on human beings in the age of artificial intelligence. Benvirá.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Other lists",
+      "items": [
+        {
+          "name": "Awesome IA no trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-no-trabalho",
+          "link": "https://go.mymarketing.click/livia-awesome-ia-no-trabalho",
+          "description": "Assistants, privacy and official sources, with a list per profession.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

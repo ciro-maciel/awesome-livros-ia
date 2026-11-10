@@ -1,0 +1,259 @@
+{
+  "slug": "awesome-livros-ia",
+  "language": "hi",
+  "title": "Awesome livros de IA",
+  "description": "पुर्तगाली में कृत्रिम बुद्धिमत्ता (AI) की किताबें: पहले इस्तेमाल से पेशे तक, बनाने वालों से लेकर बहस तक।",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "comeco",
+      "title": "शुरू करने के लिए",
+      "items": [
+        {
+          "name": "IA no dia a dia (vol. 1)",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/livia-ia-no-dia-a-dia-vol-1",
+          "description": "काम के लिए artificial intelligence के बारे में हर किसी को क्या जानना चाहिए।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro (vol. 2)",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/livia-ia-por-dentro-vol-2",
+          "description": "बात करने वाली मशीनें कैसे काम करती हैं।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "profissao",
+      "title": "पेशे के अनुसार",
+      "items": [
+        {
+          "name": "IA no escritório (vol. 3)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/livia-ia-no-escritorio-vol-3",
+          "description": "सेक्रेटरी, असिस्टेंट और प्रशासनिक सहायकों के लिए।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho (vol. 4)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/livia-ia-no-primeiro-trabalho-vol-4",
+          "description": "नौकरी मिलने से पहली सैलरी स्लिप तक, नए लोगों के लिए।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio (vol. 5)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/livia-ia-no-pequeno-negocio-vol-5",
+          "description": "WhatsApp से कैश तक, MEI और छोटे कारोबारियों के लिए।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas (vol. 6)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/livia-ia-no-atendimento-e-nas-vendas-vol",
+          "description": "सेल्समैन, कैशियर, रिसेप्शनिस्ट और टेलीमार्केटिंग ऑपरेटरों के लिए।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula (vol. 7)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/livia-ia-na-sala-de-aula-vol-7",
+          "description": "शिक्षकों के लिए: लेसन प्लान, जाँच, अनुकूलित गतिविधि और छात्र की पहचान उजागर किए बिना रिपोर्ट।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade (vol. 8)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/livia-ia-na-contabilidade-vol-8",
+          "description": "अकाउंटेंट, तकनीशियन और सहायकों के लिए: बैंक स्टेटमेंट से DCTFWeb तक, ग्राहक की जानकारी उजागर किए बिना।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia (vol. 9)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/livia-ia-na-advocacia-vol-9",
+          "description": "वकीलों के लिए: याचिका, न्यायिक नज़ीरें और समय-सीमा, बिना झूठे फैसले के और ग्राहक को उजागर किए बिना।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "construir",
+      "title": "निर्माताओं के लिए",
+      "items": [
+        {
+          "name": "Construir com IA (vol. 10)",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/livia-construir-com-ia-vol-10",
+          "description": "प्रोटोटाइप से लाइव सिस्टम तक: लॉगिन, डेटा और बिलिंग, उनके लिए जो कोडिंग नहीं जानते।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/livia-feito-para-agentes-vol-11",
+          "description": "अपने ग्राहक का AI एजेंट आपका उत्पाद कैसे इस्तेमाल करे: MCP सर्वर, llms.txt और अनुमति।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/livia-a-empresa-de-uma-pessoa-vol-12",
+          "description": "One Person Business: AI एजेंट्स के साथ पूरा कारोबार कैसे बनाएँ और चलाएँ।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/livia-do-primeiro-visitante-ao-cliente-v",
+          "description": "AI एजेंट्स के साथ अपने कारोबार की दुकान, ग्राहक जुटाना और रिश्ते कैसे बनाएँ।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Forward Deployed Engineer (vol. 14)",
+          "url": "https://ciromaciel.click/books/forward-deployed-engineer",
+          "link": "https://go.mymarketing.click/livia-forward-deployed-engineer-vol-14",
+          "description": "पायलट से प्रोडक्शन तक AI ले जाने वाला इंजीनियर कैसे बनें।",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "debate",
+      "title": "बहस को समझने के लिए",
+      "items": [
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/livia-cointeligencia",
+          "description": "Ethan Mollick, Wharton के प्रोफेसर, AI के साथ सहकर्मी की तरह जीने और काम करने पर। Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nexus",
+          "url": "https://www.companhiadasletras.com.br/livro/9788535937817/nexus",
+          "link": "https://go.mymarketing.click/livia-nexus",
+          "description": "Yuval Noah Harari सूचना नेटवर्क का इतिहास बताते हैं, पत्थर युग से AI तक। Companhia das Letras.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A próxima onda",
+          "url": "https://www.record.com.br/products/a-proxima-onda",
+          "link": "https://go.mymarketing.click/livia-a-proxima-onda",
+          "description": "Mustafa Suleyman और Michael Bhaskar: AI, सत्ता और इस सदी की सबसे बड़ी दुविधा पर। Record.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Superinteligência",
+          "url": "https://www.martinsfontespaulista.com.br/superinteligencia-840847/p",
+          "link": "https://go.mymarketing.click/livia-superinteligencia",
+          "description": "Nick Bostrom: उस AI के सामने रास्ते, खतरे और रणनीतियाँ जो हमसे ज़्यादा सक्षम है। DarkSide.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vida 3.0",
+          "url": "https://www.martinsfontespaulista.com.br/vida-3-0-925167/p",
+          "link": "https://go.mymarketing.click/livia-vida-3-0",
+          "description": "Max Tegmark: AI के युग में इंसान पर। Benvirá.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "अन्य सूचियाँ",
+      "items": [
+        {
+          "name": "Awesome IA no trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-no-trabalho",
+          "link": "https://go.mymarketing.click/livia-awesome-ia-no-trabalho",
+          "description": "असिस्टेंट, निजता और आधिकारिक स्रोत, हर पेशे के अनुसार सूची के साथ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

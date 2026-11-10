@@ -1,0 +1,259 @@
+{
+  "slug": "awesome-livros-ia",
+  "language": "zh",
+  "title": "Awesome livros de IA",
+  "description": "葡萄牙语人工智能书籍：从入门使用到职业应用，从构建者到行业讨论。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "comeco",
+      "title": "入门",
+      "items": [
+        {
+          "name": "IA no dia a dia (vol. 1)",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/livia-ia-no-dia-a-dia-vol-1",
+          "description": "每个人工作时都应该了解的人工智能知识。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro (vol. 2)",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/livia-ia-por-dentro-vol-2",
+          "description": "对话式机器的工作原理。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "profissao",
+      "title": "按职业分类",
+      "items": [
+        {
+          "name": "IA no escritório (vol. 3)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/livia-ia-no-escritorio-vol-3",
+          "description": "适用于秘书、助理和行政辅助人员。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho (vol. 4)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/livia-ia-no-primeiro-trabalho-vol-4",
+          "description": "从求职到第一份工资条，适合刚入门的人。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio (vol. 5)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/livia-ia-no-pequeno-negocio-vol-5",
+          "description": "从 WhatsApp 到收银，适合 MEI 和小型企业主。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas (vol. 6)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/livia-ia-no-atendimento-e-nas-vendas-vol",
+          "description": "适用于销售、收银员、接待员和电话营销人员。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula (vol. 7)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/livia-ia-na-sala-de-aula-vol-7",
+          "description": "适用于教师：教案、批改、适应性练习和不暴露学生身份的评语。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade (vol. 8)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/livia-ia-na-contabilidade-vol-8",
+          "description": "适用于会计、技术人员和助理：从银行对账单到 DCTFWeb，且不暴露客户信息。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia (vol. 9)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/livia-ia-na-advocacia-vol-9",
+          "description": "适用于律师：起草诉状、查找判例和期限管理，避免虚假判决并保护客户隐私。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "construir",
+      "title": "面向开发者",
+      "items": [
+        {
+          "name": "Construir com IA (vol. 10)",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/livia-construir-com-ia-vol-10",
+          "description": "从原型到上线系统：登录、数据和收费，无需编程基础也能上手。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/livia-feito-para-agentes-vol-11",
+          "description": "如何让客户的 AI 智能体使用你的产品：MCP 服务器、llms.txt 和授权。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/livia-a-empresa-de-uma-pessoa-vol-12",
+          "description": "One Person Business：如何用 AI 智能体搭建并运营一整个业务。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/livia-do-primeiro-visitante-ao-cliente-v",
+          "description": "如何借助 AI 智能体打造你业务的橱窗、获客和客户关系。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Forward Deployed Engineer (vol. 14)",
+          "url": "https://ciromaciel.click/books/forward-deployed-engineer",
+          "link": "https://go.mymarketing.click/livia-forward-deployed-engineer-vol-14",
+          "description": "如何成为把 AI 从试点推向生产的工程师。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "debate",
+      "title": "理解这场讨论",
+      "items": [
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/livia-cointeligencia",
+          "description": "Ethan Mollick 是沃顿商学院教授，讲述如何把 AI 当作同事来生活和工作。Intrínseca 出版。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nexus",
+          "url": "https://www.companhiadasletras.com.br/livro/9788535937817/nexus",
+          "link": "https://go.mymarketing.click/livia-nexus",
+          "description": "Yuval Noah Harari 讲述信息网络的历史，从石器时代到 AI。Companhia das Letras 出版。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A próxima onda",
+          "url": "https://www.record.com.br/products/a-proxima-onda",
+          "link": "https://go.mymarketing.click/livia-a-proxima-onda",
+          "description": "Mustafa Suleyman 与 Michael Bhaskar 谈 AI、权力和本世纪最大的困境。Record 出版。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Superinteligência",
+          "url": "https://www.martinsfontespaulista.com.br/superinteligencia-840847/p",
+          "link": "https://go.mymarketing.click/livia-superinteligencia",
+          "description": "Nick Bostrom 谈面对比我们更强大的 AI 时的路径、危险和策略。DarkSide 出版。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vida 3.0",
+          "url": "https://www.martinsfontespaulista.com.br/vida-3-0-925167/p",
+          "link": "https://go.mymarketing.click/livia-vida-3-0",
+          "description": "Max Tegmark 谈人类在人工智能时代的处境。Benvirá 出版。",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "其他列表",
+      "items": [
+        {
+          "name": "Awesome IA no trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-no-trabalho",
+          "link": "https://go.mymarketing.click/livia-awesome-ia-no-trabalho",
+          "description": "助手、隐私和官方来源，并按职业列出清单。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

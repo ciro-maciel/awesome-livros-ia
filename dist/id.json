@@ -1,0 +1,259 @@
+{
+  "slug": "awesome-livros-ia",
+  "language": "id",
+  "title": "Awesome livros de IA",
+  "description": "Buku tentang kecerdasan buatan dalam bahasa Portugis: dari penggunaan pertama hingga profesi, dari yang membangun hingga debatnya.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "comeco",
+      "title": "Untuk memulai",
+      "items": [
+        {
+          "name": "IA no dia a dia (vol. 1)",
+          "url": "https://ciromaciel.click/books/ia-no-dia-a-dia",
+          "link": "https://go.mymarketing.click/livia-ia-no-dia-a-dia-vol-1",
+          "description": "Yang perlu diketahui semua orang tentang kecerdasan buatan untuk bekerja.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA por dentro (vol. 2)",
+          "url": "https://ciromaciel.click/books/ia-por-dentro",
+          "link": "https://go.mymarketing.click/livia-ia-por-dentro-vol-2",
+          "description": "Cara kerja mesin yang bisa mengobrol.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "profissao",
+      "title": "Menurut profesi",
+      "items": [
+        {
+          "name": "IA no escritório (vol. 3)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/livia-ia-no-escritorio-vol-3",
+          "description": "Untuk sekretaris, asisten, dan staf administrasi.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no primeiro trabalho (vol. 4)",
+          "url": "https://ciromaciel.click/books/ia-no-primeiro-trabalho",
+          "link": "https://go.mymarketing.click/livia-ia-no-primeiro-trabalho-vol-4",
+          "description": "Dari lowongan sampai slip gaji pertama, untuk pemula.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio (vol. 5)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/livia-ia-no-pequeno-negocio-vol-5",
+          "description": "Dari WhatsApp sampai kasir, untuk MEI dan pengusaha kecil.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no atendimento e nas vendas (vol. 6)",
+          "url": "https://ciromaciel.click/books/ia-no-atendimento-e-nas-vendas",
+          "link": "https://go.mymarketing.click/livia-ia-no-atendimento-e-nas-vendas-vol",
+          "description": "Untuk penjual, kasir, resepsionis, dan operator telemarketing.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na sala de aula (vol. 7)",
+          "url": "https://ciromaciel.click/books/ia-na-sala-de-aula",
+          "link": "https://go.mymarketing.click/livia-ia-na-sala-de-aula-vol-7",
+          "description": "Untuk guru: rencana pelajaran, koreksi, tugas yang disesuaikan, dan catatan tanpa membuka identitas siswa.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na contabilidade (vol. 8)",
+          "url": "https://ciromaciel.click/books/ia-na-contabilidade",
+          "link": "https://go.mymarketing.click/livia-ia-na-contabilidade-vol-8",
+          "description": "Untuk akuntan, teknisi, dan staf: dari mutasi rekening sampai DCTFWeb, tanpa membuka data klien.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia (vol. 9)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/livia-ia-na-advocacia-vol-9",
+          "description": "Untuk pengacara: surat gugatan, yurisprudensi, dan tenggat tanpa putusan palsu atau membuka data klien.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "construir",
+      "title": "Untuk pembangun",
+      "items": [
+        {
+          "name": "Construir com IA (vol. 10)",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/livia-construir-com-ia-vol-10",
+          "description": "Dari prototipe sampai sistem live: login, data, dan penagihan untuk yang membuat tanpa bisa memprogram.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/livia-feito-para-agentes-vol-11",
+          "description": "Cara membuat agen AI klien Anda memakai produk Anda: server MCP, llms.txt, dan otorisasi.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/livia-a-empresa-de-uma-pessoa-vol-12",
+          "description": "One Person Business: cara menyusun dan menjalankan seluruh bisnis dengan agen AI.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/livia-do-primeiro-visitante-ao-cliente-v",
+          "description": "Cara menyusun etalase, akuisisi, dan hubungan pelanggan bisnis Anda dengan agen AI.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Forward Deployed Engineer (vol. 14)",
+          "url": "https://ciromaciel.click/books/forward-deployed-engineer",
+          "link": "https://go.mymarketing.click/livia-forward-deployed-engineer-vol-14",
+          "description": "Cara menjadi insinyur yang membawa AI dari percobaan ke produksi.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "debate",
+      "title": "Untuk memahami perdebatannya",
+      "items": [
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/livia-cointeligencia",
+          "description": "Ethan Mollick, profesor Wharton, tentang hidup dan bekerja dengan AI sebagai rekan kerja. Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nexus",
+          "url": "https://www.companhiadasletras.com.br/livro/9788535937817/nexus",
+          "link": "https://go.mymarketing.click/livia-nexus",
+          "description": "Yuval Noah Harari menceritakan sejarah jaringan informasi, dari Zaman Batu sampai AI. Companhia das Letras.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "A próxima onda",
+          "url": "https://www.record.com.br/products/a-proxima-onda",
+          "link": "https://go.mymarketing.click/livia-a-proxima-onda",
+          "description": "Mustafa Suleyman dan Michael Bhaskar tentang AI, kekuasaan, dan dilema terbesar abad ini. Record.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Superinteligência",
+          "url": "https://www.martinsfontespaulista.com.br/superinteligencia-840847/p",
+          "link": "https://go.mymarketing.click/livia-superinteligencia",
+          "description": "Nick Bostrom tentang jalur, bahaya, dan strategi menghadapi AI yang lebih cakap dari kita. DarkSide.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vida 3.0",
+          "url": "https://www.martinsfontespaulista.com.br/vida-3-0-925167/p",
+          "link": "https://go.mymarketing.click/livia-vida-3-0",
+          "description": "Max Tegmark tentang manusia di era kecerdasan buatan. Benvirá.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Daftar lain",
+      "items": [
+        {
+          "name": "Awesome IA no trabalho",
+          "url": "https://github.com/ciro-maciel/awesome-ia-no-trabalho",
+          "link": "https://go.mymarketing.click/livia-awesome-ia-no-trabalho",
+          "description": "Asisten, privasi, dan sumber resmi, dengan daftar per profesi.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

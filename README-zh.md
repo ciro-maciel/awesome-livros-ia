@@ -1,0 +1,112 @@
+# Awesome livros de IA
+
+> 葡萄牙语人工智能书籍：从入门使用到职业应用，从构建者到行业讨论。
+
+[![Cartas do Ciro](https://img.shields.io/badge/Cartas%20do%20Ciro-%E8%AE%A2%E9%98%85-111111?style=flat-square)](https://go.mymarketing.click/livia-cartas) [![YouTube](https://img.shields.io/badge/YouTube-%40ciro--maciel-111111?style=flat-square)](https://go.mymarketing.click/livia-youtube) [![Instagram](https://img.shields.io/badge/Instagram-ciro.maciel-111111?style=flat-square)](https://go.mymarketing.click/livia-instagram) [![Awesome](https://awesome.re/badge-flat2.svg)](https://go.mymarketing.click/livia-awesome) [![RSS](https://img.shields.io/badge/RSS-feed-555555?style=flat-square)](feed/zh.xml) ![20 项](https://img.shields.io/badge/%E9%A1%B9-20-555555?style=flat-square)
+
+[![Português](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/pt.svg)](README.md) [![English](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/en.svg)](README-en.md) [![Español](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/es.svg)](README-es.md) [![Français](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/fr.svg)](README-fr.md) [![Deutsch](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/de.svg)](README-de.md) [![Italiano](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/it.svg)](README-it.md) [![Русский](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/ru.svg)](README-ru.md) [![中文](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/zh-on.svg)](README-zh.md) [![日本語](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/ja.svg)](README-ja.md) [![한국어](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/ko.svg)](README-ko.md) [![हिन्दी](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/hi.svg)](README-hi.md) [![العربية](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/ar.svg)](README-ar.md) [![Bahasa Indonesia](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/id.svg)](README-id.md) [![Türkçe](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/tr.svg)](README-tr.md) [![Tiếng Việt](https://raw.githubusercontent.com/ciro-maciel/awesome-kit/main/badges/vi.svg)](README-vi.md)
+
+想用葡萄牙语读书学 AI 的人看这里。内容从基础讲起，接着讲职业应用和用智能体构建的人，最后是行业讨论中有影响力的书的巴西版。每个页面在收录前都打开看过。
+
+## 内容
+
+- [入门](#入门)
+- [按职业分类](#按职业分类)
+- [面向开发者](#面向开发者)
+- [理解这场讨论](#理解这场讨论)
+- [其他列表](#其他列表)
+- [标签](#标签)
+- [如何贡献](#如何贡献)
+- [其他列表](#其他列表)
+- [由 Ciro Cesar Maciel 制作](#由-ciro-cesar-maciel-制作)
+- [许可证](#许可证)
+
+## 入门
+
+在工作中使用 AI 之前每个人都应该了解的内容。
+
+- [IA no dia a dia (vol. 1)](https://go.mymarketing.click/livia-ia-no-dia-a-dia-vol-1) - 每个人工作时都应该了解的人工智能知识。 `付费` `作者自制`
+- [IA por dentro (vol. 2)](https://go.mymarketing.click/livia-ia-por-dentro-vol-2) - 对话式机器的工作原理。 `付费` `作者自制`
+
+## 按职业分类
+
+每个职业一份合集，包含日常任务和职业规范。每个职业都有一套开放的在线工具包。
+
+- [IA no escritório (vol. 3)](https://go.mymarketing.click/livia-ia-no-escritorio-vol-3) - 适用于秘书、助理和行政辅助人员。 `付费` `作者自制`
+- [IA no primeiro trabalho (vol. 4)](https://go.mymarketing.click/livia-ia-no-primeiro-trabalho-vol-4) - 从求职到第一份工资条，适合刚入门的人。 `付费` `作者自制`
+- [IA no pequeno negócio (vol. 5)](https://go.mymarketing.click/livia-ia-no-pequeno-negocio-vol-5) - 从 WhatsApp 到收银，适合 MEI 和小型企业主。 `付费` `作者自制`
+- [IA no atendimento e nas vendas (vol. 6)](https://go.mymarketing.click/livia-ia-no-atendimento-e-nas-vendas-vol) - 适用于销售、收银员、接待员和电话营销人员。 `付费` `作者自制`
+- [IA na sala de aula (vol. 7)](https://go.mymarketing.click/livia-ia-na-sala-de-aula-vol-7) - 适用于教师：教案、批改、适应性练习和不暴露学生身份的评语。 `付费` `作者自制`
+- [IA na contabilidade (vol. 8)](https://go.mymarketing.click/livia-ia-na-contabilidade-vol-8) - 适用于会计、技术人员和助理：从银行对账单到 DCTFWeb，且不暴露客户信息。 `付费` `作者自制`
+- [IA na advocacia (vol. 9)](https://go.mymarketing.click/livia-ia-na-advocacia-vol-9) - 适用于律师：起草诉状、查找判例和期限管理，避免虚假判决并保护客户隐私。 `付费` `作者自制`
+
+## 面向开发者
+
+由 AI 智能体构建的系统、产品和公司。
+
+- [Construir com IA (vol. 10)](https://go.mymarketing.click/livia-construir-com-ia-vol-10) - 从原型到上线系统：登录、数据和收费，无需编程基础也能上手。 `付费` `作者自制`
+- [Feito para agentes (vol. 11)](https://go.mymarketing.click/livia-feito-para-agentes-vol-11) - 如何让客户的 AI 智能体使用你的产品：MCP 服务器、llms.txt 和授权。 `付费` `作者自制`
+- [A empresa de uma pessoa (vol. 12)](https://go.mymarketing.click/livia-a-empresa-de-uma-pessoa-vol-12) - One Person Business：如何用 AI 智能体搭建并运营一整个业务。 `付费` `作者自制`
+- [Do primeiro visitante ao cliente (vol. 13)](https://go.mymarketing.click/livia-do-primeiro-visitante-ao-cliente-v) - 如何借助 AI 智能体打造你业务的橱窗、获客和客户关系。 `付费` `作者自制`
+- [Forward Deployed Engineer (vol. 14)](https://go.mymarketing.click/livia-forward-deployed-engineer-vol-14) - 如何成为把 AI 从试点推向生产的工程师。 `付费` `作者自制`
+
+## 理解这场讨论
+
+其他作者关于 AI 带来变化的书籍的巴西版。按字母顺序排列。
+
+- [Cointeligência](https://go.mymarketing.click/livia-cointeligencia) - Ethan Mollick 是沃顿商学院教授，讲述如何把 AI 当作同事来生活和工作。Intrínseca 出版。 `付费`
+- [Nexus](https://go.mymarketing.click/livia-nexus) - Yuval Noah Harari 讲述信息网络的历史，从石器时代到 AI。Companhia das Letras 出版。 `付费`
+- [A próxima onda](https://go.mymarketing.click/livia-a-proxima-onda) - Mustafa Suleyman 与 Michael Bhaskar 谈 AI、权力和本世纪最大的困境。Record 出版。 `付费`
+- [Superinteligência](https://go.mymarketing.click/livia-superinteligencia) - Nick Bostrom 谈面对比我们更强大的 AI 时的路径、危险和策略。DarkSide 出版。 `付费`
+- [Vida 3.0](https://go.mymarketing.click/livia-vida-3-0) - Max Tegmark 谈人类在人工智能时代的处境。Benvirá 出版。 `付费`
+
+## 其他列表
+
+进阶阅读。
+
+- [Awesome IA no trabalho](https://go.mymarketing.click/livia-awesome-ia-no-trabalho) - 助手、隐私和官方来源，并按职业列出清单。 `免费`
+
+## 标签
+
+每个条目都说明它是什么。旁边的标签帮助选择：官方表示来自制定标准的一方，开源表示代码已公开，免费或付费按使用方式划分，API 和 SDK 表示集成方式。带有“作者自制”标签的条目由 Ciro Cesar Maciel 制作，并遵循与其他条目相同的规则。
+
+## 如何贡献
+
+发现缺少、已更新或已失效的内容？请使用新增表单提交 issue，或编辑 data/list.json 后发起 pull request。每种语言的 README 都由该文件生成。
+
+[CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 其他列表
+
+同一格式的精选列表，有葡萄牙语的，也有另外 14 种语言的。
+
+- [Awesome IA no trabalho](https://go.mymarketing.click/livia-awesome-ia-no-trabalho) - 职业中的 AI：助手、隐私、规范，以及用于核对 AI 所写内容的官方来源。
+- [Awesome IA na advocacia](https://go.mymarketing.click/livia-lista-ia-advocacia) - 律师用 AI：助手、隐私、律师行业和司法系统中的 AI 规范，以及用于核对的官方来源。
+- [Awesome IA na contabilidade](https://go.mymarketing.click/livia-lista-ia-contabilidade) - 会计用 AI：助手、隐私、CFC 规范，以及用于核对的 Receita、eSocial 和 Simples 来源。
+- [Awesome IA na sala de aula](https://go.mymarketing.click/livia-lista-ia-sala-de-aula) - 教师用 AI：各工具的助手、最低使用年龄和隐私情况，以及用于核对的教育规范。
+- [Awesome IA no atendimento e nas vendas](https://go.mymarketing.click/livia-lista-ia-atendimento-e-vendas) - 服务与销售用 AI：助手、隐私、消费者权益，以及柜台、收银和电话岗位的工作规则。
+- [Awesome IA no escritório](https://go.mymarketing.click/livia-lista-ia-escritorio) - 秘书、助理和行政人员用 AI：助手、隐私、公文写作规范，以及通过电子邮件传来的诈骗。
+- [Awesome IA no pequeno negócio](https://go.mymarketing.click/livia-lista-ia-pequeno-negocio) - MEI 和小企业主用 AI：助手、隐私，以及适用于小型企业的 MEI、Simples、消费者保护和 LGPD 规则。
+- [Awesome IA no primeiro trabalho](https://go.mymarketing.click/livia-lista-ia-primeiro-trabalho) - 刚开始工作的人用 AI：助手、隐私、求职渠道、初次就业的权益，以及虚假招聘诈骗。
+- [Awesome Pix](https://go.mymarketing.click/livia-lista-pix) - Pix 集成指南：规范、API、SDK、服务商和工具，逐一核实。
+- [Awesome MCP Brasil](https://go.mymarketing.click/livia-lista-mcp-brasil) - 巴西服务的 MCP 服务器：公共数据、CNPJ、税务、法律、金融市场、商业和支付。
+- [Awesome ferramentas online](https://go.mymarketing.click/livia-lista-ferramentas-online) - 无需安装、可在浏览器中打开的免费工具：图片、PDF、文本、代码、网站、电子邮件、视频和销售。
+- [Awesome NF-e](https://go.mymarketing.click/livia-lista-nfe) - 面向集成者的电子发票：官方门户、各语言的库、开票 API 和 MCP 服务器。
+- [Awesome APIs Brasil](https://go.mymarketing.click/livia-lista-apis-brasil) - 巴西公共 API：CEP、CNPJ、央行、IBGE、立法、司法、节假日和开放数据。
+- [Awesome Claude Code BR](https://go.mymarketing.click/livia-lista-claude-code-br) - 葡萄牙语版 Claude Code：在巴西制作的文档、课程、skills、规则、插件和 MCP 服务器。
+- [Awesome pagamentos Brasil](https://go.mymarketing.click/livia-lista-pagamentos-brasil) - 面向集成者的巴西支付：规范、网关、收单机构、boleto、订阅、分账和反欺诈。
+- [Awesome Open Finance Brasil](https://go.mymarketing.click/livia-lista-open-finance-brasil) - 巴西的开放金融和开放保险：规范、技术规格、开放数据、聚合器和开源代码。
+- [Awesome WhatsApp API](https://go.mymarketing.click/livia-lista-whatsapp-api) - WhatsApp 集成指南：Meta 官方 API、服务提供商、非官方库，以及每种方式的风险。
+- [Awesome empresa de uma pessoa](https://go.mymarketing.click/livia-lista-empresa-de-uma-pessoa) - 一个人用 AI 智能体经营整个业务需要哪些工具：上线、收款、衡量、推广和被找到。
+
+## 由 Ciro Cesar Maciel 制作
+
+使用我开发的东西，也是支持这些列表的一种方式。
+
+[![Cleaner](https://img.shields.io/badge/Cleaner-111111?style=flat-square)](https://go.mymarketing.click/livia-por-cleaner) [![Screenshots](https://img.shields.io/badge/Screenshots-111111?style=flat-square)](https://go.mymarketing.click/livia-por-screenshots) [![Speech to Text](https://img.shields.io/badge/Speech%20to%20Text-111111?style=flat-square)](https://go.mymarketing.click/livia-por-speech-to-text) [![Text to Speech](https://img.shields.io/badge/Text%20to%20Speech-111111?style=flat-square)](https://go.mymarketing.click/livia-por-text-to-speech) [![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square)](https://go.mymarketing.click/livia-por-windows) [![Assistant](https://img.shields.io/badge/Assistant-111111?style=flat-square)](https://go.mymarketing.click/livia-por-assistant) [![CCM Stack](https://img.shields.io/badge/CCM%20Stack-111111?style=flat-square)](https://go.mymarketing.click/livia-por-ccm-stack) [![O Novo Básico](https://img.shields.io/badge/O%20Novo%20B%C3%A1sico-111111?style=flat-square)](https://go.mymarketing.click/livia-por-o-novo-basico) [![Ferramentas grátis](https://img.shields.io/badge/Ferramentas%20gr%C3%A1tis-111111?style=flat-square)](https://go.mymarketing.click/livia-por-ferramentas-gratis) [![Infrastructure](https://img.shields.io/badge/Infrastructure-111111?style=flat-square)](https://go.mymarketing.click/livia-por-infrastructure) [![Operations](https://img.shields.io/badge/Operations-111111?style=flat-square)](https://go.mymarketing.click/livia-por-operations) [![Customers](https://img.shields.io/badge/Customers-111111?style=flat-square)](https://go.mymarketing.click/livia-por-customers) [![Marketing](https://img.shields.io/badge/Marketing-111111?style=flat-square)](https://go.mymarketing.click/livia-por-marketing) [![Agents](https://img.shields.io/badge/Agents-111111?style=flat-square)](https://go.mymarketing.click/livia-por-agents)
+
+## 许可证
+
+本列表采用 CC0 1.0 协议：可以随意复制、改编和再分发，无需征求许可。生成器代码位于 awesome-kit，采用 MIT 协议。
+
+<sub>更新于 2026-11-10.</sub>
